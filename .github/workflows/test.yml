@@ -22,7 +22,7 @@ jobs:
           distribution: zulu
           java-version: 17
           check-latest: true
-          cache: maven
+          cache: gradle
 
       - name: Change Script Ownership
         run: chmod +x ./gradlew
