@@ -1,8 +1,7 @@
 package com.ckt1031.android.toolbox
 
+import org.junit.Assert.* // ktlint-disable no-wildcard-imports
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).
