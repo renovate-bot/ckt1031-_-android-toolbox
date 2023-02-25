@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Android Toolbox"
-include ':app'
+include(":app")
