@@ -55,7 +55,7 @@ val composeVersion = ext.get("compose_version") as String
 
 dependencies {
     // Sentry
-    implementation("io.sentry:sentry-android:6.18.1")
+    implementation("io.sentry:sentry-android:6.19.0")
 
     // AndroidX
     implementation("androidx.core:core-ktx:1.10.1")
